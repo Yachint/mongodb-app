@@ -2,8 +2,8 @@
 Basic Mongo-DB App built using Node JS and React-Redux.
 
 <p float="left">
-<img src="images/mongodb.png" width="170"  class="align-center" >
-<img src="images/js.png" width="110" class="align-center">
+<img src="images/mongodb.png" width="300" class="align-center" >
+<img src="images/js.png" width="180" class="align-center">
 <img src="images/react.png" width="180" class="align-right" >
 <img src="images/redux.png" width="180" class="align-left">
 
